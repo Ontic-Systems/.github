@@ -30,7 +30,7 @@ This is an ongoing experiment in what a small team can build when most of the en
 
 ## Active Projects
 
-**[Gradient](https://github.com/Ontic-Systems/Gradient)** &nbsp;·&nbsp; The world's first programming language designed for autonomous AI agents. Token-efficient, systems-capable, agentic-first.
+**tbd
 
 `● In development`
 
