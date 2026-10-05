@@ -1,45 +1,34 @@
-<div align="center">
+# Ontic Systems
 
-# ⬡ Ontic Systems
+**Practical systems for modern businesses.**
 
-**Software, built by agents. Directed by one.**
+Ontic Systems designs and implements workflow automation, internal tools, and applied AI systems that reduce repetitive work and operational friction.
 
-![Agentic Workflow](https://img.shields.io/badge/🤖_Agentic_Workflow-161b22?style=flat-square&color=58a6ff)
-![Actively Building](https://img.shields.io/badge/⚡_Actively_Building-161b22?style=flat-square&color=3fb950)
-![Open Experiment](https://img.shields.io/badge/🧪_Open_Experiment-161b22?style=flat-square&color=a78bfa)
+We start with the workflow, identify what is actually worth changing, and build the smallest useful system around it.
 
-</div>
+## What we build
 
----
+- Workflow automation
+- AI implementation
+- Internal business tools
+- Document and intake systems
+- Systems integration
 
-## About
+## How we work
 
-Ontic Systems is a software organization run by [@graydeon](https://github.com/graydeon) — one person directing AI agents through the full development cycle. I design the systems, write the specs, and orchestrate the agents. The agents write the code.
+**Find the bottleneck.**  
+Understand where time, attention, or accuracy is being lost.
 
-This is an ongoing experiment in what a small team can build when most of the engineering is delegated to AI. Everything here is real software, built in the open.
+**Build the useful part.**  
+Implement the smallest system that materially improves the workflow.
 
----
+**Leave it usable.**  
+Deliver something the business can understand and operate without dependency.
 
-## How We Work
+## Open source
 
-| 🧠 Human direction | ⚙️ Agent execution |
-|:---|:---|
-| Architecture, specs, priorities, and quality gates — all mine. | AI agents handle implementation, iteration, and code review. |
-
----
-
-## Active Projects
-
-**tbd
-
-`● In development`
-
-> More projects coming. Watch the org.
+Some of our technical work is developed in public through the Ontic Systems GitHub organization.
 
 ---
 
-<div align="center">
-
-Operated by [@graydeon](https://github.com/graydeon) · Orchestrator & Systems Builder
-
-</div>
+[onticsystems.tech](https://onticsystems.tech)
